@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Saira+Stencil+One&display=swap');
+.backimg{
+	background-image: url("../images/bg.jpg");;
+	background-size: cover;
+	height: 500px;
+
+}
+.hi{
+	font-family: 'Saira Stencil One', cursive;
+}
+.abc{font-family: 'Saira Stencil One', cursive;}
+
+
